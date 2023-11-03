@@ -5,4 +5,6 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(Leetgooning main.c
         Sortings.c
-        Sortings.h)
+        Sortings.h
+        quicksort.h
+        quicksort.c)
