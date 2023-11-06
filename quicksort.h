@@ -9,4 +9,7 @@ void swap(int *x, int *y);
 void partition(int array[], int low, int high);
 void quicksort(int array[], int length);
 void quicksortRecursion(int array[], int low, int high);
+
+
+
 #endif //LEETGOONING_QUICKSORT_H
